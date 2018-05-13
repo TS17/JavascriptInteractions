@@ -1,0 +1,9 @@
+{
+  "name": "DownloadFile",
+  "version": "0.0.1",
+  "description": "Download File using Express Stream and Local",
+  "scripts": {"start": "node download.js"},
+  "dependencies": {
+    "express":"4.16.3"
+  }
+}
